@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: a8bcd748f779bef45b9eff3453f8df94
+  - enabled: 1
+    path: Assets/Scenes/GameTeste.unity
+    guid: 490b63fdadd2dac4992be2b6988340c3
+  - enabled: 1
+    path: Assets/Scenes/Derrota.unity
+    guid: d6a1fec51ded4d249ad47902671ae29c
+  - enabled: 1
+    path: Assets/Scenes/Vitoria.unity
+    guid: 098e51b39a92e514383e19f9549f2099
+  m_configObjects: {}
